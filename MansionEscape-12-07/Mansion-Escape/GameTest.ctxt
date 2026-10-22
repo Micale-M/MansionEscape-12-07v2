@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=GameTest
+comment0.text=\r\n\ GameTest\ -\ a\ class\ to\ test\ the\ zuul\ game\ engine.\r\n\r\n\ @author\ \ William\ H.\ Hooper\r\n\ @version\ 2018-11-19\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment2.params=
+comment2.target=void\ starts()
+comment3.params=
+comment3.target=void\ quit()
+comment4.params=
+comment4.target=void\ help()
+comment5.params=
+comment5.target=void\ noDoor()
+comment6.params=
+comment6.target=void\ map()
+comment7.params=
+comment7.target=void\ items()
+comment8.params=
+comment8.target=void\ back()
+numComments=9
